@@ -107,12 +107,5 @@ train()
 print("Save Model:")
 if(input().lower()=="y"):
     
-    torch.save({
-        'gen_AB': gen_AB.state_dict(),
-        'gen_BA': gen_BA.state_dict(),
-        'gen_opt': gen_opt.state_dict(),
-        'disc_A': disc_A.state_dict(),
-        'disc_A_opt': disc_A_opt.state_dict(),
-        'disc_B': disc_B.state_dict(),
-        'disc_B_opt': disc_B_opt.state_dict()
-            }, f"cycleGAN.pth")
+    torch.save(gen_AB,"Day_to_Night.pth")
+    torch.save(gen_BA,"Day_to_Night.pth")
