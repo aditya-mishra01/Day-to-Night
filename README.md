@@ -1,7 +1,7 @@
 # Day-to-Night
 Cycle GAN based deep learning model that converts daytime images to nighttime and vice versa.
 The Model is being trained currently as it requires a considerable amount of computation power , i'm using google colab and it's taking some time because the amount of unit available in the free version is limited.
-The Data being used are a set of Daytime and Nighttime images that are not paired       
+The Data being used are a set of Daytime and Nighttime images that are not paired.   
 
 
 Dataset Link : https://www.kaggle.com/datasets/heonh0/daynight-cityview
