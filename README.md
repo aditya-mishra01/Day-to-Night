@@ -8,9 +8,11 @@ Dataset Link : https://www.kaggle.com/datasets/heonh0/daynight-cityview
 
 The Results after 90 epochs :
 
-![e90-r](https://github.com/aditya-mishra01/Day-to-Night/assets/55494834/51f84692-fdfc-476a-887c-804fe2b7031c)
+![ep-r](https://github.com/aditya-mishra01/Day-to-Night/assets/55494834/b202c753-da93-4777-9d5b-ff77b4b5faef)
 
 
-![e90](https://github.com/aditya-mishra01/Day-to-Night/assets/55494834/7bd2bfd5-58b9-434d-ab3d-89267b22e553)
+
+![ep](https://github.com/aditya-mishra01/Day-to-Night/assets/55494834/bfa550b3-b7b4-4b8f-b7bb-8027387ba8bb)
+
 
 I hope to soon finish the training and get a model with a more accurate results 
